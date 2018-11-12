@@ -25,18 +25,20 @@ html {
 }
 
 h1,h2,h3,h4,h5,h6 {
+  font-family: 'Abril Fatface', Baskerville, "Baskerville Old Face", "Hoefler Text", Garamond, "Times New Roman", serif, sans-serif;
   font-weight: bold;
 }
 
 h1 {
   font-size: 50.02px;
-  line-height: 55px; /* 2.5 lines */
+  line-height: 60.5px; /* 2.5 lines */
   padding-top: 22px; /* 1 line */
   padding-bottom: 33px; /* 1.5 lines */
 }
 h2 {
   font-size: 30.006px;
   line-height: 33px; /* 1.5 lines */
+  padding-bottom: 11px;
 }
 
 p {
