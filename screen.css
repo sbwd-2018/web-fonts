@@ -28,6 +28,11 @@ h1,h2,h3,h4,h5,h6 {
   font-family: 'Abril Fatface', Baskerville, "Baskerville Old Face", "Hoefler Text", Garamond, "Times New Roman", serif, sans-serif;
   font-weight: bold;
 }
+.wf-active h1,
+.wf-active h2,
+.wf-active h3 {
+  font-weight: normal;
+}
 
 h1 {
   font-size: 50.02px;
