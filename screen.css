@@ -24,6 +24,9 @@ html {
   padding-left: 1.2222222222em;
   padding-right: 1.2222222222em;
 }
+.wf-active {
+  font-size: 20px;
+}
 
 h1,h2,h3,h4,h5,h6 {
   font-family: 'Abril Fatface', Baskerville, "Baskerville Old Face", "Hoefler Text", Garamond, "Times New Roman", serif, sans-serif;
